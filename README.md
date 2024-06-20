@@ -1,7 +1,7 @@
 # CinemaFlix
 CinemaFlix - Movie Booking Mini Project
 
-#Software Tools and Technology
+Software Tools and Technology
 <ul>
   <li>HTML</li>
   <li>CSS</li>
@@ -16,7 +16,7 @@ Objectives
   <li>Store movie details, showtimes, and booking information securely.</li>
   <li>Create an intuitive and user-friendly interface.</li>
 </ul>
-#Features
+Features
 <ul>
   <li>View available movies with details like genre, duration, and description.</li>
   <li>Check available showtimes for each movie.</li>
