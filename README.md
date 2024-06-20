@@ -21,3 +21,5 @@ Showtimes: Check available showtimes for each movie.
 Seat Selection: Choose preferred seats from an interactive seating chart.
 Ticket Booking: Book tickets online with a simple and clear process.
 Responsive Design: Ensure the application is accessible on various devices (desktops, tablets, and mobiles).
+
+[CinemaFlix.docx](https://github.com/user-attachments/files/15920250/CinemaFlix.docx)
