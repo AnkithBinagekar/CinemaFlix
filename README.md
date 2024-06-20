@@ -7,6 +7,7 @@ CSS: For styling the web pages.
 JavaScript: For client-side scripting and dynamic content.
 PHP: For server-side scripting.
 MySQL: For database management.
+
 Objectives
 User Interaction: Enable users to browse available movies, view showtimes, and select seats.
 Booking System: Allow users to book tickets online efficiently.
