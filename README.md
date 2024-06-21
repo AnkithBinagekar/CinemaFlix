@@ -24,4 +24,7 @@ Features
   <li>Book tickets online with a simple and clear process.</li>
   <li>Ensure the application is accessible on various devices (desktops, tablets, and mobiles).</li>
 </ul>
+
+
+Screenshots:
 [CinemaFlix.docx](https://github.com/user-attachments/files/15920250/CinemaFlix.docx)
